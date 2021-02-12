@@ -1,25 +1,20 @@
 # Site settings
-title: WuPeng
-name:  Peng
-email: wupeng364@outlook.com
+name:  Peng's Blog
+email: wup364@outlook.com
 author: WuPeng
-url: http://blog.pipihub.com
-resume_site: http://blog.pipihub.info
-github: https://github.com/wupeng364
+url: http://wup364.com
+github: https://github.com/wup364
 baseurl: ""
 description: 夫君子之行,静以修身,俭以养德,非淡泊无以明志,非宁静无以致远.
 meta_description: Peng's Blog,伍朋,个人博客
 motto: 夫学须静也,才须学也,非学无以广才,非志无以成学.
-banner: 大梦谁先觉,平生我自知,草堂春睡足,窗外日迟迟.
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 paginate: 10
 
-github_username: wupeng364
-
 markdown: kramdown
 
 # Build settings
-baidu_analysis_key: 37b63e94ac5c6b99164e4cf5877afd7b
+baidu_analysis_key: a0a3f5ffc92591aa1e37180396f5b29b
 baidu_analysis_url: https://tongji.baidu.com

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 分类
+title: categories
 header: Posts By Category
 ---
 
@@ -36,7 +36,7 @@ header: Posts By Category
 			  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
 			  <ul>
 			    {% assign pages_list = category[1] %}  
-			    {% include LessOrMore/pages_list %}
+			    {% include datas/pages_list %}
 			  </ul>
 			{% endfor %}
           </div>
